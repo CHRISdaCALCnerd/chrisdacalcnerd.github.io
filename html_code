@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Christopher Yakou</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p> Greetings! I'm an aspiring Mechanical Engineering student with a fervent passion for cutting-edge technologies in aerospace, renewable energy, and robotics.
+           My journey in the realm of engineering has been nothing short of exhilarating, as I find myself constantly drawn to the limitless possibilities that these fields offer.
+
+Aerospace Enthusiast:
+
+The boundless expanse of the skies has always held a special allure for me. From the intricate design of aircraft to the marvels of space exploration, I'm captivated by the fusion of engineering precision and the dream of exploring new frontiers. My goal is to contribute to the evolution of aerospace technology, pushing the boundaries of what is possible.
+
+Renewable Energy Advocate:
+
+In an era where sustainability is paramount, my heart lies in the pursuit of renewable energy solutions. I'm dedicated to crafting innovative, efficient systems that harness the power of nature to fuel our world. Whether it's solar, wind, or other emerging technologies, I'm driven to play a role in shaping a greener, more sustainable future.
+
+Robotics Aficionado:
+
+The world of robotics is a realm of endless potential. From autonomous vehicles to advanced automation, I'm enthralled by the synergy between mechanical engineering and artificial intelligence. I'm committed to developing robots that not only enhance efficiency but also improve our daily lives, revolutionizing industries and pushing the boundaries of what is conceivable.
+
+Continuous Learning and Innovation:
+
+In this dynamic field, I'm constantly seeking opportunities to learn and grow. I relish challenges, seeing them as opportunities to innovate and find elegant solutions. Through hands-on experiences, collaborative projects, and a thirst for knowledge, I'm eager to contribute to the ever-evolving landscape of engineering.
+
+Beyond Engineering:
+
+When I'm not immersed in the world of gears, circuits, and algorithms, you can find me exploring the latest breakthroughs in science and technology, or perhaps lost in a good book that delves into the mysteries of the universe. I also enjoy staying active, whether through outdoor adventures or honing my skills in various sports.
+
+I'm excited to be on this journey, and I look forward to the opportunities that lie ahead. Together, let's push the boundaries of what's possible in the world of mechanical engineering and beyond!
+
+
+
+
+</p>
+        <!-- Add your about me content here -->
+    </section>
+
+    <section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project">
+        <h3> Item Sorting Machine </h3>
+        <p> This project involves the creation of an advanced item sorting machine, leveraging a diverse skill set in mechanical engineering.
+          Through hand sketching and CAD proficiency (AutoCAD for 2D and Inventor for 3D), concepts will be translated into precise virtual models.
+          Rapid prototyping using laser cutting will expedite the fabrication process.
+          Proficiency in shop tools, machine design principles, and physics-driven analysis will ensure the robustness and efficiency of the system.
+          Effective teamwork, project management, and risk reduction strategies will be employed throughout the project.
+          Additionally, strong communication skills in both oral presentations and written reports will play a pivotal role in conveying complex engineering concepts.
+          The goal is to contribute to the advancement of item sorting technology, with potential applications in various industries.
+        </p>
+        <img src="project1.jpg" alt="Project 1 Image">
+    </div>
+
+    <div class="project">
+        <h3>Project 2</h3>
+        <p>Description of Project 2.</p>
+        <img src="project2.jpg" alt="Project 2 Image">
+    </div>
+
+    <!-- Add more project divs as needed -->
+
+</section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p> Please refer to resume for contact information! </p>
+        <!-- Add your contact information here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Christopher Yakou </p>
+    </footer>
+</body>
+</html>
